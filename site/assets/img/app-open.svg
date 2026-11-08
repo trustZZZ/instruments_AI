@@ -1,0 +1,58 @@
+<svg 
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 880" width="1400" height="880" role="img" aria-label="Финальный кадр: три шага пройдены — шаблон выбран, имя задано, агент взялся за задачу; правила для агента прописаны в AGENTS.md">
+    <defs>
+        <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+            <stop offset="0" stop-color="#4285f4" stop-opacity="0.10"/>
+            <stop offset="1" stop-color="#4285f4" stop-opacity="0"/>
+        </radialGradient>
+        <linearGradient id="panelL" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0" stop-color="#0d0d20"/>
+            <stop offset="1" stop-color="#0b0b1a"/>
+        </linearGradient>
+    </defs>
+    <rect width="1400" height="880" fill="#0a0a1a"/>
+    <circle cx="690" cy="440" r="300" fill="url(#halo)"/>
+    <g>
+        <circle cx="560" cy="344" r="18" fill="none" stroke="#4285f4" stroke-opacity="0.55" stroke-width="1.6"/>
+        <path d="M552 344 l6 6 l11 -12" fill="none" stroke="#4285f4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="598" y="351" font-family="Inter, Segoe UI, sans-serif" font-size="20" fill="#c8cfd8">Выбрали шаблон</text>
+        <circle cx="560" cy="440" r="18" fill="none" stroke="#4285f4" stroke-opacity="0.55" stroke-width="1.6"/>
+        <path d="M552 440 l6 6 l11 -12" fill="none" stroke="#4285f4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="598" y="447" font-family="Inter, Segoe UI, sans-serif" font-size="20" fill="#c8cfd8">Задали имя проекта</text>
+        <circle cx="560" cy="536" r="18" fill="#4285f4" fill-opacity="0.14" stroke="#4285f4" stroke-width="1.8"/>
+        <path d="M551 536 h18 M562 529 l7 7 l-7 7" fill="none" stroke="#4285f4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="598" y="543" font-family="Inter, Segoe UI, sans-serif" font-size="20" font-weight="600" fill="#ffffff">Агент взялся за задачу</text>
+        <text x="690" y="616" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="13" fill="#7b8694">Токены — только на вашу задачу</text>
+    </g>
+    <g opacity="0.4">
+        <rect width="380" height="880" fill="url(#panelL)"/>
+        <line x1="380" y1="0" x2="380" y2="880" stroke="#1e1e38"/>
+        <text x="24" y="60" font-family="Inter, Segoe UI, sans-serif" font-size="11" letter-spacing="1.6" fill="#6c7682">ПРОЕКТ</text>
+        <text x="24" y="88" font-family="Inter, Segoe UI, sans-serif" font-size="16" font-weight="600" fill="#c8cfd8">task-runner</text>
+        <text x="24" y="146" font-family="Inter, Segoe UI, sans-serif" font-size="15" fill="#8892a0">.github</text>
+        <text x="24" y="178" font-family="Inter, Segoe UI, sans-serif" font-size="15" fill="#8892a0">docs</text>
+        <text x="24" y="210" font-family="Inter, Segoe UI, sans-serif" font-size="15" fill="#8892a0">src</text>
+        <text x="24" y="332" font-family="Inter, Segoe UI, sans-serif" font-size="15" fill="#8892a0">README.md</text>
+        <text x="24" y="364" font-family="Inter, Segoe UI, sans-serif" font-size="15" fill="#8892a0">pyproject.toml</text>
+        <text x="24" y="396" font-family="Inter, Segoe UI, sans-serif" font-size="15" fill="#8892a0">.gitignore</text>
+    </g>
+    <rect x="16" y="222" width="348" height="34" rx="6" fill="#4285f4" fill-opacity="0.16" stroke="#4285f4" stroke-opacity="0.45"/>
+    <text x="36" y="244" font-family="Inter, Segoe UI, sans-serif" font-size="15" font-weight="600" fill="#4285f4">AGENTS.md</text>
+    <circle cx="342" cy="239" r="6" fill="#4285f4" fill-opacity="0.9"/>
+    <rect x="16" y="276" width="252" height="26" rx="13" fill="#4285f4" fill-opacity="0.12" stroke="#4285f4" stroke-opacity="0.4"/>
+    <text x="30" y="293" font-family="Inter, Segoe UI, sans-serif" font-size="11" fill="#9fc3ff">Правила для агента уже прописаны</text>
+    <rect x="1000" y="0" width="400" height="880" fill="url(#panelL)"/>
+    <line x1="1000" y1="0" x2="1000" y2="880" stroke="#1e1e38"/>
+    <text x="1024" y="60" font-family="Inter, Segoe UI, sans-serif" font-size="12" letter-spacing="1.6" fill="#8892a0">АГЕНТ</text>
+    <rect x="1024" y="84" width="352" height="76" rx="8" fill="#15152b"/>
+    <text x="1042" y="116" font-family="Inter, Segoe UI, sans-serif" font-size="15" fill="#c8cfd8">Добавь команду export в CLI</text>
+    <text x="1042" y="140" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#7b8694">и покрой её тестом</text>
+    <rect x="1024" y="180" width="352" height="150" rx="8" fill="#12122a" stroke="#232345"/>
+    <text x="1042" y="214" font-family="Inter, Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#e6e9ef">Проект готов и настроен</text>
+    <text x="1042" y="244" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#9aa4b2">Каркас и правила уже</text>
+    <text x="1042" y="266" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#9aa4b2">в репозитории — начинаю с задачи.</text>
+    <text x="1042" y="300" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#4285f4">export · тест · коммит</text>
+    <rect x="1024" y="792" width="352" height="48" rx="8" fill="#15152b" stroke="#232345"/>
+    <text x="1042" y="822" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#5b6478">Следующая задача…</text>
+    <rect x="0.5" y="0.5" width="1399" height="879" rx="14" fill="none" stroke="#1e1e38"/>
+</svg>

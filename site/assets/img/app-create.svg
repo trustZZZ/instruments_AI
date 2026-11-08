@@ -1,0 +1,52 @@
+<svg 
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 880" width="1400" height="880" role="img" aria-label="Создание проекта: шаблон выбран, заданы имя и папка, вторичная кнопка создать и ссылка на GitHub">
+    <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#0b0b1c"/>
+            <stop offset="1" stop-color="#0a0a1a"/>
+        </linearGradient>
+    </defs>
+    <rect width="1400" height="880" rx="14" fill="url(#bg)"/>
+    <rect width="1400" height="64" rx="14" fill="#11112a"/>
+    <rect y="50" width="1400" height="14" fill="#11112a"/>
+    <line x1="0" y1="64" x2="1400" y2="64" stroke="#1e1e38"/>
+    <circle cx="36" cy="32" r="6" fill="#4285f4"/>
+    <text x="54" y="38" font-family="Inter, Segoe UI, sans-serif" font-size="16" font-weight="600" fill="#e6e9ef">instruments</text>
+    <text x="152" y="38" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#6b7590">· новый проект</text>
+    <text x="48" y="126" font-family="Inter, Segoe UI, sans-serif" font-size="26" font-weight="600" fill="#e6e9ef">Создание проекта</text>
+    <text x="48" y="158" font-family="Inter, Segoe UI, sans-serif" font-size="15" fill="#8892a0">Шаблон уже выбран. Осталось задать имя проекта</text>
+    <text x="48" y="202" font-family="Inter, Segoe UI, sans-serif" font-size="11" letter-spacing="1.6" fill="#6b7590">ШАБЛОН</text>
+    <rect x="48" y="216" width="680" height="96" rx="10" fill="#131a30" stroke="#4285f4" stroke-width="1.5"/>
+    <rect x="72" y="240" width="48" height="48" rx="9" fill="#15152b"/>
+    <path d="M84 254h9l3 4h12v12H84z" fill="none" stroke="#4285f4" stroke-width="1.8" stroke-linejoin="round"/>
+    <text x="140" y="262" font-family="Inter, Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#e6e9ef">python-cli</text>
+    <text x="140" y="286" font-family="Inter, Segoe UI, sans-serif" font-size="13" fill="#9fc3ff">Пакет, тесты, CI и правила для агента</text>
+    <circle cx="694" cy="264" r="11" fill="none" stroke="#4285f4" stroke-width="2"/>
+    <path d="M689 264l4 4 7-8" fill="none" stroke="#4285f4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="48" y="326" width="680" height="96" rx="10" fill="#15152b" stroke="#1e1e38"/>
+    <rect x="72" y="350" width="48" height="48" rx="9" fill="#191933"/>
+    <rect x="86" y="364" width="20" height="20" rx="5" fill="#4a5470" opacity="0.7"/>
+    <text x="140" y="372" font-family="Inter, Segoe UI, sans-serif" font-size="17" fill="#c8cfd8">web-app</text>
+    <text x="140" y="396" font-family="Inter, Segoe UI, sans-serif" font-size="13" fill="#7b8694">Фронтенд, сборочный конфиг, линтеры</text>
+    <rect x="48" y="436" width="680" height="96" rx="10" fill="#15152b" stroke="#1e1e38"/>
+    <rect x="72" y="460" width="48" height="48" rx="9" fill="#191933"/>
+    <rect x="86" y="474" width="20" height="20" rx="5" fill="#4a5470" opacity="0.7"/>
+    <text x="140" y="482" font-family="Inter, Segoe UI, sans-serif" font-size="17" fill="#c8cfd8">data-pipeline</text>
+    <text x="140" y="506" font-family="Inter, Segoe UI, sans-serif" font-size="13" fill="#7b8694">Загрузка, обработка и выгрузка данных</text>
+    <text x="800" y="202" font-family="Inter, Segoe UI, sans-serif" font-size="12" letter-spacing="1.6" fill="#8892a0">НАЗВАНИЕ ПРОЕКТА</text>
+    <rect x="800" y="216" width="552" height="54" rx="8" fill="#15152b" stroke="#1e1e38"/>
+    <text x="822" y="251" font-family="Inter, Segoe UI, sans-serif" font-size="19" fill="#e6e9ef">task-runner</text>
+    <rect x="1262" y="232" width="2" height="22" fill="#4285f4"/>
+    <text x="800" y="304" font-family="Inter, Segoe UI, sans-serif" font-size="12" letter-spacing="1.6" fill="#8892a0">ПАПКА</text>
+    <rect x="800" y="318" width="552" height="54" rx="8" fill="#15152b" stroke="#1e1e38"/>
+    <text x="822" y="353" font-family="Inter, Segoe UI, sans-serif" font-size="18" fill="#8892a0">~/dev/task-runner</text>
+    <rect x="800" y="402" width="552" height="58" rx="8" fill="#1b1b33" stroke="#2e2e52"/>
+    <text x="1076" y="439" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="18" font-weight="500" fill="#c8cfd8">Создать проект</text>
+    <text x="1076" y="490" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#6b7590">Занимает несколько секунд</text>
+    <line x1="800" y1="540" x2="1352" y2="540" stroke="#1e1e38"/>
+    <text x="800" y="574" font-family="Inter, Segoe UI, sans-serif" font-size="13" fill="#8892a0">git с первым коммитом</text>
+    <text x="1030" y="574" font-family="Inter, Segoe UI, sans-serif" font-size="13" fill="#8892a0">README и документация</text>
+    <text x="800" y="602" font-family="Inter, Segoe UI, sans-serif" font-size="13" fill="#8892a0">правила для ИИ-агента</text>
+    <text x="1030" y="602" font-family="Inter, Segoe UI, sans-serif" font-size="13" fill="#4285f4">готово к работе</text>
+    <rect x="0.5" y="0.5" width="1399" height="879" rx="14" fill="none" stroke="#1e1e38"/>
+</svg>

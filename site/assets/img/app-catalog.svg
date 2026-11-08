@@ -1,0 +1,78 @@
+<svg 
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 880" width="1400" height="880" role="img" aria-label="Библиотека шаблонов: на карточке шаблона видна структура файлов">
+    <rect width="1400" height="880" rx="16" fill="#0a0a1a"/>
+    <rect x="0.5" y="0.5" width="1399" height="879" rx="16" fill="none" stroke="#1e1e38"/>
+    <path d="M0 16a16 16 0 0 1 16-16h1368a16 16 0 0 1 16 16v48H0z" fill="#11112a"/>
+    <circle cx="34" cy="32" r="7" fill="#4285f4"/>
+    <text x="52" y="38" font-family="Inter, Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#e6e9ef">instruments</text>
+    <text x="168" y="38" font-family="Inter, Segoe UI, sans-serif" font-size="13" fill="#6b7590">библиотека шаблонов</text>
+    <rect x="1170" y="16" width="196" height="32" rx="6" fill="#15152b" stroke="#1e1e38"/>
+    <text x="1268" y="37" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="13" fill="#e6e9ef">Новый проект</text>
+    <rect x="0" y="64" width="300" height="816" fill="#0e0e1f"/>
+    <text x="32" y="106" font-family="Inter, Segoe UI, sans-serif" font-size="11" letter-spacing="1.6" fill="#6b7590">КАТЕГОРИИ</text>
+    <rect x="16" y="126" width="268" height="40" rx="8" fill="#15152b"/>
+    <rect x="16" y="126" width="3" height="40" rx="2" fill="#4285f4"/>
+    <text x="36" y="151" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#e6e9ef">Все шаблоны</text>
+    <text x="248" y="151" font-family="Inter, Segoe UI, sans-serif" font-size="12" fill="#6b7590">24</text>
+    <text x="36" y="198" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#8892a0">Python</text>
+    <text x="36" y="238" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#8892a0">Web</text>
+    <text x="36" y="278" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#8892a0">CLI</text>
+    <text x="36" y="318" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#8892a0">Данные</text>
+    <text x="36" y="358" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#8892a0">Документация</text>
+    <text x="340" y="128" font-family="Inter, Segoe UI, sans-serif" font-size="26" font-weight="600" fill="#e6e9ef">Библиотека шаблонов</text>
+    <text x="340" y="158" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#8892a0">Готовые структуры для Python, Web, Data</text>
+    <rect x="340" y="186" width="600" height="44" rx="8" fill="#15152b" stroke="#1e1e38"/>
+    <circle cx="368" cy="208" r="7" fill="none" stroke="#6b7590" stroke-width="2"/>
+    <text x="390" y="213" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#6b7590">Поиск шаблона</text>
+    <rect x="960" y="186" width="120" height="44" rx="8" fill="#15152b" stroke="#1e1e38"/>
+    <text x="1020" y="213" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="13" fill="#8892a0">Python</text>
+    <rect x="1092" y="186" width="120" height="44" rx="8" fill="#15152b" stroke="#1e1e38"/>
+    <text x="1152" y="213" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="13" fill="#8892a0">Web</text>
+    <rect x="1224" y="186" width="136" height="44" rx="8" fill="#15152b" stroke="#1e1e38"/>
+    <text x="1292" y="213" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="13" fill="#8892a0">С фильтрами</text>
+    <g>
+        <rect x="340" y="262" width="324" height="196" rx="10" fill="#131a30" stroke="#4285f4" stroke-width="1.5"/>
+        <rect x="364" y="286" width="40" height="40" rx="9" fill="#15152b"/>
+        <path d="M372 300h7l2 3h9v9h-18z" fill="none" stroke="#4285f4" stroke-width="1.8" stroke-linejoin="round"/>
+        <text x="364" y="358" font-family="Inter, Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#e6e9ef">python-cli</text>
+        <text x="364" y="382" font-family="Inter, Segoe UI, sans-serif" font-size="12" fill="#9fc3ff">Структура внутри</text>
+        <text x="364" y="406" font-family="Inter, Segoe UI, sans-serif" font-size="12" fill="#8892a0">src/ · tests/ · docs/</text>
+        <rect x="364" y="422" width="112" height="24" rx="6" fill="#4285f4" fill-opacity="0.14" stroke="#4285f4" stroke-opacity="0.4"/>
+        <text x="420" y="439" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="11" fill="#9fc3ff">0 токенов</text>
+    </g>
+    <g>
+        <rect x="688" y="262" width="324" height="196" rx="10" fill="#15152b" stroke="#1e1e38"/>
+        <rect x="712" y="286" width="40" height="40" rx="9" fill="#191933"/>
+        <path d="M726 300h12v12h-12z" fill="none" stroke="#4285f4" stroke-width="2"/>
+        <text x="712" y="366" font-family="Inter, Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#e6e9ef">web-app</text>
+        <text x="712" y="392" font-family="Inter, Segoe UI, sans-serif" font-size="12" fill="#8892a0">Разметка, стили и соглашения</text>
+        <text x="712" y="410" font-family="Inter, Segoe UI, sans-serif" font-size="12" fill="#8892a0">по доступности</text>
+        <rect x="712" y="426" width="46" height="22" rx="5" fill="#191933"/>
+        <text x="735" y="441" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="11" fill="#8892a0">Web</text>
+        <rect x="766" y="426" width="86" height="22" rx="5" fill="#191933"/>
+        <text x="809" y="441" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="11" fill="#8892a0">Доступность</text>
+    </g>
+    <g>
+        <rect x="1036" y="262" width="324" height="196" rx="10" fill="#15152b" stroke="#1e1e38"/>
+        <rect x="1060" y="286" width="40" height="40" rx="9" fill="#191933"/>
+        <path d="M1070 314l6-16 6 16z" fill="none" stroke="#4285f4" stroke-width="2"/>
+        <text x="1060" y="366" font-family="Inter, Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#e6e9ef">data-pipeline</text>
+        <text x="1060" y="392" font-family="Inter, Segoe UI, sans-serif" font-size="12" fill="#8892a0">Загрузка, обработка, отчёты</text>
+        <text x="1060" y="410" font-family="Inter, Segoe UI, sans-serif" font-size="12" fill="#8892a0">и регламент данных</text>
+        <rect x="1060" y="426" width="70" height="22" rx="5" fill="#191933"/>
+        <text x="1095" y="441" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="11" fill="#8892a0">Данные</text>
+    </g>
+    <g opacity="0.6">
+        <rect x="340" y="482" width="324" height="196" rx="10" fill="#15152b" stroke="#1e1e38"/>
+        <rect x="688" y="482" width="324" height="196" rx="10" fill="#15152b" stroke="#1e1e38"/>
+        <rect x="1036" y="482" width="324" height="196" rx="10" fill="#15152b" stroke="#1e1e38"/>
+        <rect x="364" y="506" width="40" height="40" rx="9" fill="#191933"/>
+        <rect x="712" y="506" width="40" height="40" rx="9" fill="#191933"/>
+        <rect x="1060" y="506" width="40" height="40" rx="9" fill="#191933"/>
+        <text x="364" y="586" font-family="Inter, Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#e6e9ef">library</text>
+        <text x="712" y="586" font-family="Inter, Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#e6e9ef">extension</text>
+        <text x="1060" y="586" font-family="Inter, Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#e6e9ef">docs-site</text>
+    </g>
+    <rect x="340" y="736" width="352" height="58" rx="8" fill="#1b1b33" stroke="#2e2e52"/>
+    <text x="516" y="772" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="16" font-weight="500" fill="#c8cfd8">Сгенерировать каркас</text>
+</svg>
