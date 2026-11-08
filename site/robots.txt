@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ai-instruments.teamquicktalk.ru/sitemap.xml
+Sitemap: https://teamquicktalk.ru/sitemap.xml
