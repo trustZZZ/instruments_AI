@@ -1,14 +1,14 @@
 :root {
-  --bg: #14161a;
-  --bg-deep: #0f1115;
-  --surface: #1b1f24;
-  --surface-2: #22272e;
-  --line: #2c333b;
+  --bg: #0a0a1a;
+  --bg-deep: #080814;
+  --surface: #11112a;
+  --surface-2: #15152b;
+  --line: #1e1e38;
   --text: #e6e9ef;
-  --muted: #9aa4b2;
-  --accent: #4c8dff;
-  --accent-hover: #6ba1ff;
-  --accent-glow: rgba(76, 141, 255, 0.28);
+  --muted: #8892a0;
+  --accent: #4285f4;
+  --accent-hover: #5b97f7;
+  --accent-glow: rgba(66, 133, 244, 0.28);
   --radius: 6px;
   --font: "Inter", "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
 }
@@ -27,8 +27,8 @@ body {
 body {
   margin: 0;
   background:
-    radial-gradient(1200px 700px at 78% -10%, rgba(76, 141, 255, 0.16), transparent 60%),
-    linear-gradient(160deg, #14161a 0%, #111318 55%, #0f1115 100%);
+    radial-gradient(1200px 700px at 78% -10%, rgba(66, 133, 244, 0.16), transparent 60%),
+    linear-gradient(160deg, #0a0a1a 0%, #090916 55%, #080814 100%);
   color: var(--text);
   font-family: var(--font);
   font-size: 16px;
@@ -81,7 +81,7 @@ img {
   inset: 0;
   background:
     radial-gradient(620px 420px at 76% 34%, var(--accent-glow), transparent 70%),
-    radial-gradient(760px 520px at 12% 76%, rgba(76, 141, 255, 0.08), transparent 72%);
+    radial-gradient(760px 520px at 12% 76%, rgba(66, 133, 244, 0.08), transparent 72%);
 }
 
 .backdrop__grid {
@@ -97,8 +97,8 @@ img {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(90deg, #14161a 0%, rgba(20, 22, 26, 0.94) 34%, rgba(20, 22, 26, 0.62) 58%, rgba(20, 22, 26, 0.42) 100%),
-    linear-gradient(180deg, rgba(20, 22, 26, 0.75) 0%, transparent 32%, transparent 68%, #14161a 100%);
+    linear-gradient(90deg, #0a0a1a 0%, rgba(10, 10, 26, 0.94) 34%, rgba(10, 10, 26, 0.62) 58%, rgba(10, 10, 26, 0.42) 100%),
+    linear-gradient(180deg, rgba(10, 10, 26, 0.75) 0%, transparent 32%, transparent 68%, #0a0a1a 100%);
 }
 
 /* Сцена */
@@ -291,8 +291,8 @@ img {
 }
 
 .slide.is-active {
-  border-color: rgba(76, 141, 255, 0.45);
-  box-shadow: 0 24px 60px -30px rgba(0, 0, 0, 0.9), 0 0 0 1px rgba(76, 141, 255, 0.08);
+  border-color: rgba(66, 133, 244, 0.45);
+  box-shadow: 0 24px 60px -30px rgba(0, 0, 0, 0.9), 0 0 0 1px rgba(66, 133, 244, 0.08);
 }
 
 .slide img {
